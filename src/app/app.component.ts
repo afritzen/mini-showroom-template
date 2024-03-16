@@ -11,7 +11,7 @@ import { HomeComponent } from './home/home.component';
     HomeComponent
   ],
   //templateUrl: './app.component.html',
-  styleUrl: './app.component.scss',
+  styleUrl: './app.component.css',
   template: `
     <main>
       <header class="brand-name">

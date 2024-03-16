@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
       home works!
     </p>
   `,
-  styleUrl: './home.component.scss'
+  styleUrl: './home.component.css'
 })
 export class HomeComponent {
 
